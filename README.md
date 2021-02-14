@@ -6,7 +6,7 @@ To install Masternode requirements
 
 VPS with following
 
-Ubuntu 18.04.1 LTS and over
+Ubuntu 18.04.1 LTS
 
 64-bit
 
