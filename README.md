@@ -1,4 +1,4 @@
-# masternode
+# Auto install Masternode
 
 To install Masternode requirements
 
@@ -21,3 +21,6 @@ wget https://github.com/levantcoin-project/masternode/releases/download/1.0.0.0g
 
 
 bash lvc_install.sh
+
+
+Levantcoind
